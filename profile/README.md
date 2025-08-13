@@ -1,5 +1,5 @@
 
-![Eric Donnelly - FullStack Developer | Technical Mentor | Tech Dad](./assets/DonnellyDev_logo.png)
+![Eric Donnelly - FullStack Developer | Technical Mentor | Tech Dad](../assets/DonnellyDev_logo.png)
 
 Welcome to **Donnelly Development** - the professional portfolio and development hub for Eric Donnelly. This organization houses production-ready web applications, coding examples, and educational resources for mentoring aspiring developers.
 
